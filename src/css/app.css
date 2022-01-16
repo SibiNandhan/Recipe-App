@@ -1,0 +1,23 @@
+@import "recipe-list.css";
+@import "font.css";
+@import "button.css";
+@import "recipe.css";
+@import "ingredient-list.css";
+@import "recipe-edit.css";
+
+*,
+*::before,
+*::after {
+  font-weight: bold;
+  font-size: normal;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+html {
+  font-size: 30px;
+}
+
+.mr-1 {
+  margin-right: 5px;
+}
